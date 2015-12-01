@@ -1,0 +1,8 @@
+C:\Users\Christian Olmscheid\Documents\Programmierung\C#\AnnoBuildingTool\bin\Debug\AnnoBuildingTool.exe.config
+C:\Users\Christian Olmscheid\Documents\Programmierung\C#\AnnoBuildingTool\bin\Debug\AnnoBuildingTool.exe
+C:\Users\Christian Olmscheid\Documents\Programmierung\C#\AnnoBuildingTool\bin\Debug\AnnoBuildingTool.pdb
+C:\Users\Christian Olmscheid\Documents\Programmierung\C#\AnnoBuildingTool\obj\Debug\AnnoBuildingTool.csprojResolveAssemblyReference.cache
+C:\Users\Christian Olmscheid\Documents\Programmierung\C#\AnnoBuildingTool\obj\Debug\AnnoBuildingTool.Properties.Resources.resources
+C:\Users\Christian Olmscheid\Documents\Programmierung\C#\AnnoBuildingTool\obj\Debug\AnnoBuildingTool.csproj.GenerateResource.Cache
+C:\Users\Christian Olmscheid\Documents\Programmierung\C#\AnnoBuildingTool\obj\Debug\AnnoBuildingTool.exe
+C:\Users\Christian Olmscheid\Documents\Programmierung\C#\AnnoBuildingTool\obj\Debug\AnnoBuildingTool.pdb
